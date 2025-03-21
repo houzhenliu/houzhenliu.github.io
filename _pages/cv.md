@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Bachelor of Science in Computer Science, University of Science and Techology of China
+  * GPA: 3.93/4.3
+  * Advisor: Professor Dr.Chen
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
