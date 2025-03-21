@@ -17,11 +17,11 @@ Education
 
 Work Experience
 ======
-* Officer of University Programming Club \hfill USTC | Sep 2024 (Ongoing)
+* Officer of University Programming Club \hfill USTC | Mar 2025 (Ongoing)
   * Organized 10+ virtual programming competitions with 500+ participants
   * Designed algorithm challenges and scoring systems
 
-* Logistics Team Member - Yuqing Cup \hfill USTC | Sep 2024 (Ongoing)  
+* Logistics Team Member - Yuqing Cup \hfill USTC | Dec 2024 
   * Coordinated event operations for 300+ participants
   * Developed automated attendance tracking system
 
