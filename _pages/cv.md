@@ -11,53 +11,35 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science in Computer Science, University of Science and Techology of China
-  * GPA: 3.93/4.3
-  * Advisor: Professor Dr.Chen
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.S. in Computer Science and Technology, School of the Gifted Young, University of Science and Technology of China \hfill 2024.9--2028.6  
+  * GPA: 3.93/4.3 (Expected)
+  * Core Courses:  Algorithms
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* Officer of University Programming Club \hfill USTC | Sep 2024 (Ongoing)
+  * Organized 10+ virtual programming competitions with 500+ participants
+  * Designed algorithm challenges and scoring systems
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Logistics Team Member - Yuqing Cup \hfill USTC | Sep 2024 (Ongoing)  
+  * Coordinated event operations for 300+ participants
+  * Developed automated attendance tracking system
 
-Publications
+Technical Skills
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Programming Languages:
+  * **Proficient**: C/C++, Python, JavaScript/TypeScript
+  * **Familiar**: LaTeX , SQL
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* ``Whose USTC'' Card Battle Game
+  * Implemented account system and card evolution algorithms in C++
+  * Developed turn-based battle system with skill effects
+  * Created matchmaking system supporting 1000+ concurrent users
+
+Competitions
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Chinese Mathematical Olympiad (CMO) - Silver Medalist \hfill 2023.12
+* First Prize, Chinese Undergraduate Mathematics Competition (CMC) \hfill 2024.10
+
