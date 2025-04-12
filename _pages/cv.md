@@ -40,6 +40,6 @@ Projects
 
 Competitions
 ======
-* Chinese Mathematical Olympiad (CMO) - Silver Medalist \hfill 2023.12
-* First Prize, Chinese Undergraduate Mathematics Competition (CMC) \hfill 2024.10
+* Chinese Mathematical Olympiad (CMO) - Silver Medalist 2023.12
+* First Prize, Chinese Undergraduate Mathematics Competition (CMC) 2024.10
 
