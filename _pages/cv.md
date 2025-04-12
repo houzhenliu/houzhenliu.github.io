@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, School of the Gifted Young, University of Science and Technology of China \hfill 2024.9--2028.6  
+* B.S. in Computer Science and Technology, School of the Gifted Young, University of Science and Technology of China 2024.9--2028.6  
   * GPA: 3.93/4.3 (Expected)
   * Core Courses:  Algorithms
 
 Work Experience
 ======
-* Officer of University Programming Club \hfill USTC | Mar 2025 (Ongoing)
+* Officer of University Programming Club USTC | Mar 2025 (Ongoing)
   * Organized 10+ virtual programming competitions with 500+ participants
   * Designed algorithm challenges and scoring systems
 
-* Logistics Team Member - Yuqing Cup \hfill USTC | Dec 2024 
+* Logistics Team Member - Yuqing Cup  USTC | Dec 2024 
   * Coordinated event operations for 300+ participants
   * Developed automated attendance tracking system
 
