@@ -36,7 +36,7 @@ Projects
 * ``Whose USTC'' Card Battle Game
   * Implemented account system and card evolution algorithms in C++
   * Developed turn-based battle system with skill effects
-  * Created matchmaking system supporting 1000+ concurrent users
+  * Created matchmaking system supporting muti-users
 
 Competitions
 ======
