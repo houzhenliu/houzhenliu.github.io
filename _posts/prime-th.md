@@ -1,0 +1,51 @@
+引理：Kummer定理：对于任意的正整数 $n$ 和质数 $p$，$C_n^k$ 的 $p$ 进制表示中，$p$ 的指数等于 $n$ 和 $k$ 的 $p$ 进制表示中进位的次数之差。详见 [Kummer's theorem](https://zhuanlan.zhihu.com/p/550993534)。
+
+---
+
+对于任意的 $N$，考虑中心组合数 $C_{2N}^N$。它的质因子分为两部分：小于等于 $N$ 的质因子和大于 $N$ 的质因子。
+
+对于小于 $N$ 的质因子，根据 Kummer 定理，$C_{2N}^N$ 的某个质数 $p$ 的指数是 $2N$ 和 $N$ 的 $p$ 进制表示中进位次数，少于 $\log_{p}{2N}$。
+
+对于大于 $N$ 的质因子，其个数为 $\Pi(2N) - \Pi(N)$，即所有大于 $N$ 且不超过 $2N$ 的质数个数。
+
+而 $C_{2N}^N$ 的取值范围是 $[2^N, 4^N]$。
+
+代入求 $\Pi(2N)$ 的下界和递推上界：
+
+上界如下：
+$$
+4^N > \prod_{p \leq N} p^{\log_{p}(2N)} \prod_{p > N} p
+= (2N)^{\Pi(2N)}
+$$
+得出
+$$
+\Pi(2N) < O\left(\frac{N}{\log_2 N}\right)
+$$
+
+另一方面，考虑更大的数 $N = M^2$：
+$$
+2^{M^2} < \prod_{M < p < 2M^2} p = (M)^{\Pi(2M^2) - \Pi(M)}
+$$
+取对数可得
+$$
+\Pi(2M^2) - \Pi(M) > O\left(\frac{M^2}{\log_2 M^2}\right)
+$$
+
+根据之前的结论
+$$
+\Pi(2M^2) > \Pi(M) + O\left(\frac{M^2}{2\log_2 M}\right) > O\left(\frac{M^2}{2\log_2 M}\right) + O\left(\frac{M}{\log_2 M}\right)
+$$
+于是我们知道
+$$
+\Pi(2M^2) > O\left(\frac{M^2}{2\log_2 M}\right)
+$$
+
+那么对于任意的 $N$，找到离它最近的 $M^2$ 带入这个式子即可。最近的 $M^2$ 不会超过 $N$ 的两倍，因此
+$$
+\Pi(2N) > O\left(\frac{N}{2\log_2 N}\right)
+$$
+
+综上，
+$$
+\Pi(N) = \Theta\left(\frac{N}{\log_2 N}\right)
+$$
