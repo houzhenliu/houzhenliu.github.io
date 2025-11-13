@@ -15,10 +15,14 @@ redirect_from:
 ---
 
 ### Quick Navigation 
-[GitHub Profile](https://github.com/houzhenliu)  
+[GitHub Profile](https://github.com/houzhenliu) 
+
 [CV](/cv)
+
 [Email](mailto:hzliu0919@gmail.com)
+
 [codeforces](https://codeforces.com/profile/flowsnow)
+
 [Google Scholar](https://scholar.google.com/citations?user=JwqLn5gAAAAJ&hl=en)
 
 
