@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Technology, School of the Gifted Young, University of Science and Technology of China 2024.9--2028.6  
-  * GPA: 3.93/4.3 (Expected)
-  * Core Courses:  Algorithms
-
+  * GPA: 3.91/4.3 (Rank: 17/231)
+  * Core Courses:  Algorithms(Grade: A)
+  * Honors: Excellent Student Scholarship, Silver Award
 Work Experience
 ======
 * Officer of University Programming Club USTC | Mar 2025 (Ongoing)
@@ -42,4 +42,10 @@ Competitions
 ======
 * Chinese Mathematical Olympiad (CMO) - Silver Medalist 2023.12
 * First Prize, Chinese Undergraduate Mathematics Competition (CMC) 2024.10
-
+* Silver Medal, Chinese Mathematical Olympiad (CMO 2023)
+* First Prize, Chinese Mathematical Olympiad in Senior (2023, JiangXi Division)
+* Third Prize, Jiuzhang Cup Mathematics Competition (2024)
+* Third Prize, China Collegiate Computing Contest (National Finals 2025)
+* 7th Place, USTC Computer Programming Competition (USTCPC 2025)
+* Second Prize (Rank 2), Anhui Province Robot Competition (AHCPC 2025)
+* First Prize, CMC (Non-Mathematics Category)
