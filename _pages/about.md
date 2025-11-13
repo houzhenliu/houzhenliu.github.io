@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to My Digital Home 
 
- **Reinforcement Learning | Machine Learning | Deep Learning | Whole-Body Robotics | Robot Control**
+Reinforcement Learning | Machine Learning | Deep Learning | Whole-Body Robotics | Robot Control
 
 **Algorithm Enthusiast | Mathematics Enthusiast**
 ---
