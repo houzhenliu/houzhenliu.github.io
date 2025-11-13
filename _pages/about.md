@@ -9,13 +9,21 @@ redirect_from:
 
 # Welcome to My Digital Home 
 
-🚀 **CS Explorer | Algorithm Enthusiast | Full-stack Developer**  
-A passionate undergraduate from USTC's School of the Gifted Young, navigating the world of code and mathematics.
+** Reinforcement Learning | Machine Learning | Deep Learning | Whole-Body Robotics | Robot Control **
 
+** Algorithm Enthusiast | Mathematics Enthusiast **
 ---
 
 ### Quick Navigation 
-💻 [GitHub Profile](https://github.com/houzhenliu)  
-📬 [CV](/cv)
+[GitHub Profile](https://github.com/houzhenliu)  
+[CV](/cv)
+[Email](mailto:hzliu0919@gmail.com)
+[codeforces](https://codeforces.com/profile/flowsnow)
+[Google Scholar](https://scholar.google.com/citations?user=JwqLn5gAAAAJ&hl=en)
+
 
 --- 
+
+### Education
+- [USTC(University of Science and Technology of China)](https://www.ustc.edu.cn/) Bachelor of Computer Science and Technology, 2024 - Present
+
