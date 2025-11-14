@@ -42,10 +42,8 @@ Competitions
 ======
 * Chinese Mathematical Olympiad (CMO) - Silver Medalist 2023.12
 * First Prize, Chinese Undergraduate Mathematics Competition (CMC) 2024.10
-* Silver Medal, Chinese Mathematical Olympiad (CMO 2023)
 * First Prize, Chinese Mathematical Olympiad in Senior (2023, JiangXi Division)
 * Third Prize, Jiuzhang Cup Mathematics Competition (2024)
 * Third Prize, China Collegiate Computing Contest (National Finals 2025)
 * 7th Place, USTC Computer Programming Competition (USTCPC 2025)
 * Second Prize (Rank 2), Anhui Province Robot Competition (AHCPC 2025)
-* First Prize, CMC (Non-Mathematics Category)
