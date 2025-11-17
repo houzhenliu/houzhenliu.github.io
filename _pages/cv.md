@@ -15,6 +15,7 @@ Education
   * GPA: 3.91/4.3 (Rank: 17/231)
   * Core Courses:  Algorithms(Grade: A)
   * Honors: Excellent Student Scholarship, Silver Award
+
 Work Experience
 ======
 * Officer of University Programming Club USTC | Mar 2025 (Ongoing)
@@ -33,7 +34,7 @@ Technical Skills
 
 Projects
 ======
-* ``Whose USTC'' Card Battle Game
+* “Whose USTC” Card Battle Game
   * Implemented account system and card evolution algorithms in C++
   * Developed turn-based battle system with skill effects
   * Created matchmaking system supporting muti-users
