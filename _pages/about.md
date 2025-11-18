@@ -11,7 +11,6 @@ redirect_from:
 
 Reinforcement Learning | Machine Learning | Deep Learning | Whole-Body Robotics | Robot Control
 
-**Algorithm Enthusiast | Mathematics Enthusiast**
 ---
 
 ### Quick Navigation 

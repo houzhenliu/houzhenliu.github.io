@@ -16,6 +16,7 @@ Education
   * Core Courses:  Algorithms(Grade: A) , Math Analysis B1 and B2(Grade:Both A+) , Linear Algebra B1(Grade: A+)
   * Honors: Excellent Student Scholarship, Silver Award
 * Supervised by ShaoQing Ren, Chair Professor of USTC
+
 Work Experience
 ======
 * Officer of University Programming Club USTC | From Oct 2024 (Ongoing)
