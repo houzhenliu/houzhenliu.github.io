@@ -13,18 +13,19 @@ Education
 ======
 * B.S. in Computer Science and Technology, School of the Gifted Young, University of Science and Technology of China 2024.9--2028.6  
   * GPA: 3.91/4.3 (Rank: 17/231)
-  * Core Courses:  Algorithms(Grade: A)
+  * Core Courses:  Algorithms(Grade: A) , Math Analysis B1 and B2(Grade:Both A+) , Linear Algebra B1(Grade: A+)
   * Honors: Excellent Student Scholarship, Silver Award
-
+* Supervised by ShaoQing Ren, Chair Professor of USTC
 Work Experience
 ======
-* Officer of University Programming Club USTC | Mar 2025 (Ongoing)
-  * Organized 10+ virtual programming competitions with 500+ participants
-  * Designed algorithm challenges and scoring systems
+* Officer of University Programming Club USTC | From Oct 2024 (Ongoing)
+  * Organized 10+ virtual programming competitions with total 500+ attendees
+  * Helped Financial Department with expense reimbursements
+  * Managed budgeting and financial reporting
 
-* Logistics Team Member - Yuqing Cup  USTC | Dec 2024 
+* Logistics Team Member - Yuqing Cup  USTC | From Dec 2024 (Ongoing)
   * Coordinated event operations for 300+ participants
-  * Developed automated attendance tracking system
+  * Helped manage logistics and scheduling
 
 Technical Skills
 ======
@@ -48,3 +49,4 @@ Competitions
 * Third Prize, China Collegiate Computing Contest (National Finals 2025)
 * 7th Place, USTC Computer Programming Competition (USTCPC 2025)
 * Second Prize (Rank 2), Anhui Province Robot Competition (AHCPC 2025)
+
