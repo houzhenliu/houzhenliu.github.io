@@ -185,6 +185,10 @@ code, pre, .highlight {
 }
 
 @media (min-width: 960px) {
+  .sidebar {
+    transform: translate3d(-26px, 0, 0);
+  }
+
   .cv-page,
   .home-page {
     padding: 1.8rem 2rem;
