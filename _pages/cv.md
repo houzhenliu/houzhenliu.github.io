@@ -36,11 +36,18 @@ Technical Skills
 
 Projects
 ======
-* “Whose USTC” Card Battle Game
+* Whose USTC Card Battle Game
   * Implemented account system and card evolution algorithms in C++
   * Developed turn-based battle system with skill effects
-  * Created matchmaking system supporting muti-users
-
+  * Created matchmaking system supporting multi-users
+* 墨韵新智 (iFLYTEK Spark Challenge Cup Project)
+  * Built an AI-driven intelligent news article generation system using the Spark workflow API
+  * Developed with Next.js, TypeScript, and Material-UI, supporting text, image, and speech-record inputs
+  * GitHub: https://github.com/houzhenliu/MoYunXinZhi
+* SAC-PER Reinforcement Learning Project
+  * Implemented an efficient Soft Actor-Critic training pipeline for IsaacLab with optional Prioritized Experience Replay (PER)
+  * Improved off-policy sample efficiency and training stability through replay and training optimizations
+  * GitHub: https://github.com/houzhenliu/sac_isaaclab
 Competitions
 ======
 * Chinese Mathematical Olympiad (CMO) - Silver Medalist 2023.12
@@ -50,4 +57,5 @@ Competitions
 * Third Prize, China Collegiate Computing Contest (National Finals 2025)
 * 7th Place, USTC Computer Programming Competition (USTCPC 2025)
 * Second Prize (Rank 2), Anhui Province Robot Competition (AHCPC 2025)
+
 
