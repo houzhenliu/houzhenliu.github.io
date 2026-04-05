@@ -5,6 +5,9 @@
   --hz-muted: #5d6678;
   --hz-accent: #0f5cc0;
   --hz-border: #d9e1ef;
+  --hz-border-strong: #c2cfe5;
+  --hz-shadow: 0 12px 28px rgba(34, 56, 102, 0.08);
+  --hz-outline: inset 0 1px 0 rgba(255, 255, 255, 0.75);
 }
 
 body {
@@ -25,9 +28,24 @@ code, pre, .highlight {
 .home-page,
 .cv-page {
   background: var(--hz-bg-soft);
+  border: 1px solid var(--hz-border-strong);
+  border-radius: 16px;
+  box-shadow: var(--hz-shadow), var(--hz-outline);
+  padding: 1.3rem 1.1rem;
+}
+
+.page,
+.archive {
   border: 1px solid var(--hz-border);
   border-radius: 16px;
-  padding: 1.3rem 1.1rem;
+  box-shadow: 0 8px 24px rgba(34, 56, 102, 0.06), var(--hz-outline);
+  background: rgba(255, 255, 255, 0.94);
+  padding: 0.6rem 0.9rem;
+}
+
+.page__inner-wrap,
+.archive__item {
+  border-top: none;
 }
 
 .home-page h1 {
@@ -50,7 +68,7 @@ code, pre, .highlight {
 
 .home-links a {
   background: #fff;
-  border: 1px solid var(--hz-border);
+  border: 1px solid var(--hz-border-strong);
   border-radius: 999px;
   padding: 0.35rem 0.8rem;
   text-decoration: none;
@@ -90,5 +108,10 @@ code, pre, .highlight {
   .cv-page,
   .home-page {
     padding: 1.8rem 2rem;
+  }
+
+  .page,
+  .archive {
+    padding: 0.9rem 1.1rem;
   }
 }
