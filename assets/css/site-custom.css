@@ -1,0 +1,94 @@
+:root {
+  --hz-bg-soft: linear-gradient(140deg, #f7f3eb 0%, #eef4ff 45%, #f4fbf7 100%);
+  --hz-card: #ffffff;
+  --hz-text: #1d2433;
+  --hz-muted: #5d6678;
+  --hz-accent: #0f5cc0;
+  --hz-border: #d9e1ef;
+}
+
+body {
+  font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+  color: var(--hz-text);
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, .page__title, .archive__item-title {
+  font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: 0.01em;
+}
+
+code, pre, .highlight {
+  font-family: "JetBrains Mono", Consolas, monospace;
+}
+
+.home-page,
+.cv-page {
+  background: var(--hz-bg-soft);
+  border: 1px solid var(--hz-border);
+  border-radius: 16px;
+  padding: 1.3rem 1.1rem;
+}
+
+.home-page h1 {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  margin-bottom: 0.45rem;
+}
+
+.home-subtitle {
+  color: var(--hz-muted);
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0 1.2rem;
+}
+
+.home-links a {
+  background: #fff;
+  border: 1px solid var(--hz-border);
+  border-radius: 999px;
+  padding: 0.35rem 0.8rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.home-links a:hover {
+  border-color: var(--hz-accent);
+  color: var(--hz-accent);
+}
+
+.cv-page h2 {
+  font-size: 1.5rem;
+  margin-top: 1.6rem;
+  border-bottom: 2px solid #cfd9eb;
+  padding-bottom: 0.35rem;
+}
+
+.cv-page > section:first-child h2 {
+  margin-top: 0;
+}
+
+.cv-page ul {
+  margin-bottom: 0.85rem;
+}
+
+.cv-page li {
+  margin-bottom: 0.35rem;
+}
+
+.cv-page a {
+  color: var(--hz-accent);
+  font-weight: 600;
+}
+
+@media (min-width: 960px) {
+  .cv-page,
+  .home-page {
+    padding: 1.8rem 2rem;
+  }
+}

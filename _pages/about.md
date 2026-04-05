@@ -7,26 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to My Digital Home 
+<div class="home-page">
+  <h1>Welcome to My Digital Home</h1>
+  <p class="home-subtitle">
+    Reinforcement Learning | Machine Learning | Deep Learning | Whole-Body Robotics | Robot Control
+  </p>
 
-Reinforcement Learning | Machine Learning | Deep Learning | Whole-Body Robotics | Robot Control
+  <div class="home-links">
+    <a href="https://github.com/houzhenliu">GitHub Profile</a>
+    <a href="/cv">CV</a>
+    <a href="mailto:hzliu0919@gmail.com">Email</a>
+    <a href="https://codeforces.com/profile/flowsnow">Codeforces</a>
+    <a href="https://scholar.google.com/citations?user=JwqLn5gAAAAJ&hl=en">Google Scholar</a>
+  </div>
 
----
+  <h2>Education</h2>
+  <ul>
+    <li>
+      <a href="https://www.ustc.edu.cn/">USTC (University of Science and Technology of China)</a>:
+      Bachelor of Computer Science and Technology, 2024 - Present
+    </li>
+  </ul>
+</div>
 
-### Quick Navigation 
-[GitHub Profile](https://github.com/houzhenliu) 
-
-[CV](/cv)
-
-[Email](mailto:hzliu0919@gmail.com)
-
-[codeforces](https://codeforces.com/profile/flowsnow)
-
-[Google Scholar](https://scholar.google.com/citations?user=JwqLn5gAAAAJ&hl=en)
-
-
---- 
-
-### Education
-- [USTC(University of Science and Technology of China)](https://www.ustc.edu.cn/) Bachelor of Computer Science and Technology, 2024 - Present
 
